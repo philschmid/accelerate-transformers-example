@@ -13,7 +13,7 @@ conda create --channel=conda-forge --name ac \
 ```
 2. install pip packages
 ```bash
-pip install transformers datasets accelerate
+pip install transformers datasets accelerate evaluate
 ```
 
 ## Checkout examples
