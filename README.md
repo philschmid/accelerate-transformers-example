@@ -19,3 +19,4 @@ pip install transformers datasets accelerate evaluate
 ## Checkout examples
 
 * [migrate vanilla pytorch to accelerate](./examples/migrate.ipynb)
+* [notebook example -> launch training in notebook](./examples/notebook_launcher.ipynb)
