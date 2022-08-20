@@ -18,4 +18,4 @@ pip install transformers datasets accelerate evaluate
 
 ## Checkout examples
 
-* [migrate](./examples/migrate.ipynb)
+* [migrate vanilla pytorch to accelerate](./examples/migrate.ipynb)
